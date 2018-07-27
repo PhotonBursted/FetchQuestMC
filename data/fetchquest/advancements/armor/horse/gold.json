@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:witchcraft/enchanting/anvil/chipped_anvil",
+  "parent": "fetchquest:armor/horse/iron",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"
@@ -8,11 +8,11 @@
   "display": {
     "show_toast": true,
     "icon": {
-      "item": "minecraft:damaged_anvil"
+      "item": "minecraft:golden_horse_armor"
     },
     "description": "",
     "title": {
-      "translate": "block.minecraft.damaged_anvil"
+      "translate": "item.minecraft.golden_horse_armor"
     },
     "announce_to_chat": false,
     "hidden": false

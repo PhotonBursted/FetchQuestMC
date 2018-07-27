@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:food/carrot/normal",
+  "parent": "fetchquest:food/apple/golden",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"
@@ -8,11 +8,11 @@
   "display": {
     "show_toast": true,
     "icon": {
-      "item": "minecraft:golden_carrot"
+      "item": "minecraft:enchanted_golden_apple"
     },
     "description": "",
     "title": {
-      "translate": "item.minecraft.golden_carrot"
+      "translate": "item.minecraft.enchanted_golden_apple"
     },
     "announce_to_chat": false,
     "hidden": false

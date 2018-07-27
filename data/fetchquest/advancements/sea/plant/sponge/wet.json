@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:sea/plant/sponge/sponge",
+  "parent": "fetchquest:sea/plant/sponge/dry",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"

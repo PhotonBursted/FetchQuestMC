@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:food/apple/enchanted",
+  "parent": "fetchquest:armor/horse/diamond",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:location"

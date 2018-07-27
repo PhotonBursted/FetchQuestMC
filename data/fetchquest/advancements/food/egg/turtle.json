@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:food/egg/egg",
+  "parent": "fetchquest:food/egg/chicken",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"

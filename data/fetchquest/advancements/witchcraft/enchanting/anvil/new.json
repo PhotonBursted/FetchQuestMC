@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:food/apple/golden_apple",
+  "parent": "fetchquest:witchcraft/root",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"
@@ -8,11 +8,11 @@
   "display": {
     "show_toast": true,
     "icon": {
-      "item": "minecraft:enchanted_golden_apple"
+      "item": "minecraft:anvil"
     },
     "description": "",
     "title": {
-      "translate": "item.minecraft.enchanted_golden_apple"
+      "translate": "block.minecraft.anvil"
     },
     "announce_to_chat": false,
     "hidden": false

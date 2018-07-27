@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:sea/plant/root",
+  "parent": "fetchquest:armor/root",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"
@@ -8,11 +8,11 @@
   "display": {
     "show_toast": true,
     "icon": {
-      "item": "minecraft:sponge"
+      "item": "minecraft:iron_horse_armor"
     },
     "description": "",
     "title": {
-      "translate": "block.minecraft.sponge"
+      "translate": "item.minecraft.iron_horse_armor"
     },
     "announce_to_chat": false,
     "hidden": false

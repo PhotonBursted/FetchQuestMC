@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:witchcraft/enchanting/anvil/damaged_anvil",
+  "parent": "fetchquest:witchcraft/enchanting/anvil/damaged",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:location"

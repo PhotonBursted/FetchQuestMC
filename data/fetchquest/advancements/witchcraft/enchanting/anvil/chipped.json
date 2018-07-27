@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:witchcraft/enchanting/enchanting_table",
+  "parent": "fetchquest:witchcraft/enchanting/anvil/new",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"
@@ -8,11 +8,11 @@
   "display": {
     "show_toast": true,
     "icon": {
-      "item": "minecraft:anvil"
+      "item": "minecraft:chipped_anvil"
     },
     "description": "",
     "title": {
-      "translate": "block.minecraft.anvil"
+      "translate": "block.minecraft.chipped_anvil"
     },
     "announce_to_chat": false,
     "hidden": false

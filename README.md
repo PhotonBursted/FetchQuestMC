@@ -2,8 +2,6 @@
 This datapack involves item hunts; getting as many items as possible within the vanilla Minecraft game.
 All of the obtainable items have been put in the pack as advancements and categorised.
 
-This doesn't mean, however, the game is playable already; as of now no logic has been put in for granting those advancements or getting points.
-
 ## Installation
 Installation goes like any other datapack:
  - Download the latest ZIP from the releases page

@@ -5,7 +5,7 @@
     }
   },
   "display": {
-    "show_toast": true,
+    "show_toast": false,
     "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
     "icon": {
       "item": "minecraft:cyan_glazed_terracotta"

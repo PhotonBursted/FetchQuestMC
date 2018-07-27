@@ -6,7 +6,7 @@
     }
   },
   "display": {
-    "show_toast": true,
+    "show_toast": false,
     "icon": {
       "item": "minecraft:oak_boat"
     },

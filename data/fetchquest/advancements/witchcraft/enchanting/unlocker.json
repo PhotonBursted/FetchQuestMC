@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:witchcraft/enchanting/enchanting_table",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

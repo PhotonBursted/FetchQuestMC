@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:wood/boat/jungle",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:spruce_boat"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.spruce_boat"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

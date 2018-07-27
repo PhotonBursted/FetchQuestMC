@@ -1,0 +1,17 @@
+{
+  "parent": "fetchquest:plant/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:poppy"
+    },
+    "description": "",
+    "title": "Flowers",
+    "announce_to_chat": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:redstone/wire/torch",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:repeater"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.repeater"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

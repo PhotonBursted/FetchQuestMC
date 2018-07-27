@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:food/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:cake"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.cake"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

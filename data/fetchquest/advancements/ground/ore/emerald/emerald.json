@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/ore/emerald/ore",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:emerald"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.emerald"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

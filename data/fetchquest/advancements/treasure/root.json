@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "icon": {
+      "item": "minecraft:music_disc_13"
+    },
+    "description": "Shiny things await their collection...",
+    "title": "Treasure",
+    "announce_to_chat": false
+  }
+}

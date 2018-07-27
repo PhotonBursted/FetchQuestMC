@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:plant/mushroom/red",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

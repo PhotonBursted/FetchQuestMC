@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/adventure.png",
+    "icon": {
+      "item": "minecraft:compass"
+    },
+    "description": "Bush!",
+    "title": "Navigation",
+    "announce_to_chat": false
+  }
+}

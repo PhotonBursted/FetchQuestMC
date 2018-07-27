@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/dye/green",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:lime_dye"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.lime_dye"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

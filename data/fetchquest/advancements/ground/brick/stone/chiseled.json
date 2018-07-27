@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/brick/stone/stairs",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:chiseled_stone_bricks"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.chiseled_stone_bricks"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

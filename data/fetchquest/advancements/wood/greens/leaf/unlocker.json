@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:wood/greens/leaf/dark_oak",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

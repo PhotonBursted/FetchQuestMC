@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:sea/plant/coral/fan/bubble",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:fire_coral_fan"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.fire_coral_fan"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

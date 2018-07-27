@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:wood/plank/stair/oak",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:jungle_stairs"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.jungle_stairs"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

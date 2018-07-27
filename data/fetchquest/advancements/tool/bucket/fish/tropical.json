@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:tool/bucket/fish/pufferfish",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:tropical_fish_bucket"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.tropical_fish_bucket"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

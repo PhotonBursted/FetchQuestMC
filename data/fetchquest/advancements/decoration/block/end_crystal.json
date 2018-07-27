@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:decoration/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:end_crystal"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.end_crystal"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

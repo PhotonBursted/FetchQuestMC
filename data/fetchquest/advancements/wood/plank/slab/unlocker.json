@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:wood/plank/slab/dark_oak",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

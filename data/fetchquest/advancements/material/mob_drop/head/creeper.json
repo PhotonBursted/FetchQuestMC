@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:material/mob_drop/head/zombie",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:creeper_head"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.creeper_head"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

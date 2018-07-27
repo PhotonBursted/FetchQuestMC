@@ -1,0 +1,17 @@
+{
+  "parent": "fetchquest:wood/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:oak_log"
+    },
+    "description": "",
+    "title": "Logs",
+    "announce_to_chat": false
+  }
+}

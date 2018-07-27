@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:wood/plank/slab/acacia",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:birch_slab"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.birch_slab"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

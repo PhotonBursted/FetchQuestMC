@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:decoration/block/hay_block",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:jukebox"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.jukebox"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

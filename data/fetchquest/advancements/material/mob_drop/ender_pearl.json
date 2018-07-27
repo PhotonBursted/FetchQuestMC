@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:material/mob_drop/slime_ball",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:ender_pearl"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.ender_pearl"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

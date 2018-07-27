@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/rock/stone/diorite/block",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:polished_diorite"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.polished_diorite"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/terracotta/yellow",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:orange_terracotta"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.orange_terracotta"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

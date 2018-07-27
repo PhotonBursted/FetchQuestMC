@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:sea/plant/coral/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:tube_coral"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.tube_coral"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

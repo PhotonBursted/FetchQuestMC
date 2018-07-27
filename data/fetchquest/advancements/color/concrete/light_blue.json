@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/concrete/white",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:light_blue_concrete"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.light_blue_concrete"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

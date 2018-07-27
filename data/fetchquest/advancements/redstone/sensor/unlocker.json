@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:redstone/sensor/tripwire_hook",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/terracotta/magenta",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:pink_terracotta"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.pink_terracotta"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

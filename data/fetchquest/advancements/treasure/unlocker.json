@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:treasure/dragon_egg",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

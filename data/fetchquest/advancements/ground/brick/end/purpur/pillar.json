@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/brick/end/purpur/popped_chorus_fruit",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:purpur_pillar"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.purpur_pillar"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

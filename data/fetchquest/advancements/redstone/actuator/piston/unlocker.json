@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:redstone/actuator/piston/sticky",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

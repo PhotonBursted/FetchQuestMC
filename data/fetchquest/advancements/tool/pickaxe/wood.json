@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:tool/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:wooden_pickaxe"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.wooden_pickaxe"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

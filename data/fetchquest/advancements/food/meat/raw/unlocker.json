@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:food/meat/raw/rabbit",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

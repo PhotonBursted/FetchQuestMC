@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/glass/purple",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:magenta_stained_glass"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.magenta_stained_glass"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

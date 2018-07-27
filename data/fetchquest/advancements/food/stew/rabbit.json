@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:food/stew/mushroom",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:rabbit_stew"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.rabbit_stew"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

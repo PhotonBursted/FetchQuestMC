@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:treasure/music/far",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:music_disc_cat"
+    },
+    "description": "cat",
+    "title": {
+      "translate": "item.minecraft.music_disc_cat"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

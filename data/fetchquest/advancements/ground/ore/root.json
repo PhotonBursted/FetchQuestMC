@@ -1,0 +1,17 @@
+{
+  "parent": "fetchquest:ground/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:iron_ore"
+    },
+    "description": "",
+    "title": "Ores",
+    "announce_to_chat": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/rock/sandstone/slab",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:sandstone_stairs"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.sandstone_stairs"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

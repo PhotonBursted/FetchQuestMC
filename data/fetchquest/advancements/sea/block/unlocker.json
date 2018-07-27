@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:sea/block/sea_lantern",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

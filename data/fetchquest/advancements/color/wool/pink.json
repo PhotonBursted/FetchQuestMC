@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/wool/magenta",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:pink_wool"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.pink_wool"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

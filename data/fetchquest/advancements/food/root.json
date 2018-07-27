@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "icon": {
+      "item": "minecraft:apple"
+    },
+    "description": "Collect some nutrition!",
+    "title": "Food",
+    "announce_to_chat": false
+  }
+}

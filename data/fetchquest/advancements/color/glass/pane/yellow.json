@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/glass/pane/lime",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:yellow_stained_glass_pane"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.yellow_stained_glass_pane"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

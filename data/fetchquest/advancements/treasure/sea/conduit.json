@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:treasure/sea/nautilus_shell",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:conduit"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.conduit"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

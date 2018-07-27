@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:tool/weapon/trident",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

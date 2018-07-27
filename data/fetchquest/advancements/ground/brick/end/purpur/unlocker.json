@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:ground/brick/end/purpur/pillar",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

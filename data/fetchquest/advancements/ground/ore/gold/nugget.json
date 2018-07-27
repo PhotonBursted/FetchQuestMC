@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/ore/gold/block",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:gold_nugget"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.gold_nugget"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

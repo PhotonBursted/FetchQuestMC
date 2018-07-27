@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/nether/soul_sand",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:nether_wart"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.nether_wart"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

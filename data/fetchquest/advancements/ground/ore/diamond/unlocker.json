@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:ground/ore/diamond/block",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:tool/bucket/fish/salmon",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:pufferfish_bucket"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.pufferfish_bucket"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

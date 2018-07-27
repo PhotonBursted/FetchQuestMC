@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/carpet/gray",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:light_gray_carpet"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.light_gray_carpet"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

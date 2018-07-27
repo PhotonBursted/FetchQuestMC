@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:decoration/container/hopper",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:furnace"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.furnace"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

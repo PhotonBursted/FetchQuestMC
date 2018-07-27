@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:material/bone_meal",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:fire_charge"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.fire_charge"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

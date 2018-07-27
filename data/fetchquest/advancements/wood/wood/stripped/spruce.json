@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:wood/wood/stripped/jungle",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:stripped_spruce_wood"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.stripped_spruce_wood"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:sea/block/stair/dark_prismarine",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

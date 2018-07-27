@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:decoration/rail/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:minecart"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.minecart"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:tool/hoe/stone",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:iron_hoe"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.iron_hoe"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

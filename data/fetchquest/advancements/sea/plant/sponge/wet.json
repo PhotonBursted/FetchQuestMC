@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:sea/plant/sponge/sponge",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:wet_sponge"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.wet_sponge"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

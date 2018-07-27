@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/soil/red_sand",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:terracotta"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.terracotta"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:sea/block/prismarine_bricks",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:dark_prismarine"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.dark_prismarine"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

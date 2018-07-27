@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:sea/plant/seagrass",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:sea_pickle"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.sea_pickle"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

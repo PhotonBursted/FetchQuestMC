@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:ground/ore/emerald/block",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

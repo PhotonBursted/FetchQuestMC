@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:treasure/music/stal",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:music_disc_11"
+    },
+    "description": "11",
+    "title": {
+      "translate": "item.minecraft.music_disc_11"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

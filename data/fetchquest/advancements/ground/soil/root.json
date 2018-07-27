@@ -1,0 +1,17 @@
+{
+  "parent": "fetchquest:ground/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:dirt"
+    },
+    "description": "",
+    "title": "Soil",
+    "announce_to_chat": false
+  }
+}

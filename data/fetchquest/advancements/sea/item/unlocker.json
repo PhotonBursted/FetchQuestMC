@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:sea/item/scute",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

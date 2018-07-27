@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "icon": {
+      "item": "minecraft:iron_chestplate"
+    },
+    "description": "All things related to one's defense",
+    "title": "Armor",
+    "announce_to_chat": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:plant/mushroom/block/stem",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

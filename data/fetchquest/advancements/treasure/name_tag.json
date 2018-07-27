@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:treasure/elytra",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:name_tag"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.name_tag"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

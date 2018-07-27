@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/soil/sand",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:red_sand"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.red_sand"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

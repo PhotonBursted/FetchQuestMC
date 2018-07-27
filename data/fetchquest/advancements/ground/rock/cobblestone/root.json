@@ -1,0 +1,17 @@
+{
+  "parent": "fetchquest:ground/rock/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:cobblestone"
+    },
+    "description": "",
+    "title": "Cobblestones",
+    "announce_to_chat": false
+  }
+}

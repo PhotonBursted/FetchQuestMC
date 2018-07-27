@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:netherrack"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.netherrack"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

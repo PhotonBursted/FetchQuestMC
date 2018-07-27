@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:treasure/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:music_disc_strad"
+    },
+    "description": "strad",
+    "title": {
+      "translate": "item.minecraft.music_disc_strad"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

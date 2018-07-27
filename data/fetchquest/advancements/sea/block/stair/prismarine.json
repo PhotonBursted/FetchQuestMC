@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:sea/block/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:prismarine_stairs"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.prismarine_stairs"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

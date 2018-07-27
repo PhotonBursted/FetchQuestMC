@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:wood/utility/torch",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

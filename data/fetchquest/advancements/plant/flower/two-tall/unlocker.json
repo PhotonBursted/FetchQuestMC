@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:plant/flower/two-tall/rose_bush",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

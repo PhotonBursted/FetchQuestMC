@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:wood/utility/charcoal",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:crafting_table"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.crafting_table"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

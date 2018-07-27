@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/shulker_box/lime",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:yellow_shulker_box"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.yellow_shulker_box"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

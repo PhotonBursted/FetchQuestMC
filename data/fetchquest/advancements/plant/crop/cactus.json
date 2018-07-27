@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:plant/crop/jack_o_lantern",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:cactus"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.cactus"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:color/carpet/pink",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

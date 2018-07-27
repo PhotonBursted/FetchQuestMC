@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:ground/rock/stone/andesite/polished",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

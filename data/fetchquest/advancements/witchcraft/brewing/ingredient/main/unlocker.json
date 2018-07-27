@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:witchcraft/brewing/ingredient/main/ghast_tear",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

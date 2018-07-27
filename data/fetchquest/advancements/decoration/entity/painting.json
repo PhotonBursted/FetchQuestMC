@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:decoration/entity/item_frame",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:painting"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.painting"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

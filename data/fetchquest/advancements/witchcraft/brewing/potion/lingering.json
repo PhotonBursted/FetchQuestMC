@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:witchcraft/brewing/potion/splash",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:lingering_potion"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.lingering_potion"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

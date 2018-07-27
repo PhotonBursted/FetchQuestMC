@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:plant/flower/azure_bluet",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

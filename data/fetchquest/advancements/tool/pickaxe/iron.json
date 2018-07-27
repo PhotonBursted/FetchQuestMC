@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:tool/pickaxe/stone",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.iron_pickaxe"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:witchcraft/brewing/potion/potion",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:splash_potion"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.splash_potion"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/nether/netherrack",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.glowstone_dust"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:plant/flower/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:chorus_flower"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.chorus_flower"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

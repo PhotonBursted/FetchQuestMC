@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:food/meat/raw/mutton",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:porkchop"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.porkchop"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:tool/carrot_on_a_stick",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:fishing_rod"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.fishing_rod"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

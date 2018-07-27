@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:redstone/actuator/trapdoor/iron",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

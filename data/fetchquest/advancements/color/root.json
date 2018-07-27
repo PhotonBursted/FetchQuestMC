@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+    "icon": {
+      "item": "minecraft:cyan_glazed_terracotta"
+    },
+    "description": "_jeb will be proud, should you complete this.",
+    "title": "Color",
+    "announce_to_chat": false
+  }
+}

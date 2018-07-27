@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:food/egg/egg",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:turtle_egg"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.turtle_egg"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

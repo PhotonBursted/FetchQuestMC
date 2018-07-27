@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:witchcraft/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:brewing_stand"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.brewing_stand"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

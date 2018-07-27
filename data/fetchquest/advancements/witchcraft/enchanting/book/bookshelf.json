@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:witchcraft/enchanting/enchanting_table",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:bookshelf"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.bookshelf"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

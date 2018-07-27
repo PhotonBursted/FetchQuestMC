@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/dye/cyan",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.lapis_lazuli"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:plant/flower/two-tall/lilac",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:peony"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.peony"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

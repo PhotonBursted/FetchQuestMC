@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/soil/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:snow"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.snow"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

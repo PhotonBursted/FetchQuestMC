@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:armor/chestplate/diamond",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

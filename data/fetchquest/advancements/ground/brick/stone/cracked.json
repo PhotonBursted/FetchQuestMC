@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/brick/stone/chiseled",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:cracked_stone_bricks"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.cracked_stone_bricks"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

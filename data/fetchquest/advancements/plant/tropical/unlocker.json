@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:plant/tropical/cocoa_beans",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

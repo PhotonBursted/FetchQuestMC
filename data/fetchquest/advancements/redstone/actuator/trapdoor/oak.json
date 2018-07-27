@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:redstone/actuator/trapdoor/birch",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:oak_trapdoor"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.oak_trapdoor"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:material/mob_drop/head/skeleton",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.wither_skeleton_skull"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

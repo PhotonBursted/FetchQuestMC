@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:wood/greens/sapling/acacia",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:birch_sapling"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.birch_sapling"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

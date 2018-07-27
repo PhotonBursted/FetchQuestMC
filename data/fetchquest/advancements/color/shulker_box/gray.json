@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/shulker_box/black",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:gray_shulker_box"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.gray_shulker_box"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

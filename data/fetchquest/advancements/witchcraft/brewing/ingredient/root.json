@@ -1,0 +1,17 @@
+{
+  "parent": "fetchquest:witchcraft/brewing/brewing_stand",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:nether_wart"
+    },
+    "description": "",
+    "title": "Ingredients",
+    "announce_to_chat": false
+  }
+}

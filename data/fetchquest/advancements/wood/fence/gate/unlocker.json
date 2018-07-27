@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:wood/fence/gate/dark_oak",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

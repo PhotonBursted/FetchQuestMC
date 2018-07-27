@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/brick/nether/brick",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:red_nether_bricks"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.red_nether_bricks"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

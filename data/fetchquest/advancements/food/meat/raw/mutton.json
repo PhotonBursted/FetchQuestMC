@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:food/meat/raw/chicken",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:mutton"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.mutton"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

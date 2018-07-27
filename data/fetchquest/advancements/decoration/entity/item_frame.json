@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:decoration/entity/armor_stand",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:item_frame"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.item_frame"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

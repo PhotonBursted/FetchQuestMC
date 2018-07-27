@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:witchcraft/brewing/ingredient/main/rabbit_foot",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.phantom_membrane"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/concrete/powder/lime",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:yellow_concrete_powder"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.yellow_concrete_powder"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

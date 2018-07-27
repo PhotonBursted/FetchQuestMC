@@ -1,0 +1,17 @@
+{
+  "parent": "fetchquest:sea/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:seagrass"
+    },
+    "description": "",
+    "title": "Plant",
+    "announce_to_chat": false
+  }
+}

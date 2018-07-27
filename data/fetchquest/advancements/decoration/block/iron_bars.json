@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:decoration/block/flower_pot",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:iron_bars"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.iron_bars"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

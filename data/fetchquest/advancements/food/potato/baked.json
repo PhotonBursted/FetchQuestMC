@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:food/potato/poisonous",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:baked_potato"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.baked_potato"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

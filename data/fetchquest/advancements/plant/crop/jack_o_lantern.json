@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:plant/crop/carved_pumpkin",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.jack_o_lantern"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

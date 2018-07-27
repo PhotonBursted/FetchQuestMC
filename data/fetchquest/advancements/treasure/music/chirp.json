@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:treasure/music/blocks",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:music_disc_chirp"
+    },
+    "description": "chirp",
+    "title": {
+      "translate": "item.minecraft.music_disc_chirp"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

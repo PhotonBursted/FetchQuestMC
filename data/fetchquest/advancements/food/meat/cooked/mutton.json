@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:food/meat/cooked/chicken",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.cooked_mutton"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

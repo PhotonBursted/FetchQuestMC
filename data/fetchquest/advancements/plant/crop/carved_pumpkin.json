@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:plant/crop/pumpkin",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.carved_pumpkin"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

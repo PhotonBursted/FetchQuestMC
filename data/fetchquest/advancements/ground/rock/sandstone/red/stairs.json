@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/rock/sandstone/red/slab",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:red_sandstone_stairs"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.red_sandstone_stairs"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

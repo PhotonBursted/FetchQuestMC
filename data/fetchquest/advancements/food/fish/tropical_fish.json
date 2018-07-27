@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:food/fish/pufferfish",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:tropical_fish"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.tropical_fish"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

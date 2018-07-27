@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/concrete/powder/light_gray",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:white_concrete_powder"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.white_concrete_powder"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

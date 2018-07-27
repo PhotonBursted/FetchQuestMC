@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/concrete/powder/blue",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:green_concrete_powder"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.green_concrete_powder"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

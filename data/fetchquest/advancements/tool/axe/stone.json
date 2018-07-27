@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:tool/axe/wood",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:stone_axe"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.stone_axe"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:food/fish/cooked/salmon",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

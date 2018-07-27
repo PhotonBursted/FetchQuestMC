@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/ore/quartz/chiseled",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:quartz_pillar"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.quartz_pillar"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

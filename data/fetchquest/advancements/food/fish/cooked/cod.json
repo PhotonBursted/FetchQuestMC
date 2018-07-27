@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:food/fish/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:cooked_cod"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.cooked_cod"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

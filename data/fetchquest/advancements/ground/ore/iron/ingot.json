@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/ore/iron/ore",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:iron_ingot"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.iron_ingot"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

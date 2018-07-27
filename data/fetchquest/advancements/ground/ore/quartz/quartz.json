@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:ground/ore/quartz/ore",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:quartz"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.quartz"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:food/apple/enchanted_golden_apple",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

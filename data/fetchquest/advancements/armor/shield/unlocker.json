@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:armor/shield/shield",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

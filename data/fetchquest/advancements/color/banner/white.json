@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/banner/light_gray",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:white_banner"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.white_banner"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

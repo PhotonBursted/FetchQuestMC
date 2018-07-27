@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:sea/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:prismarine_crystals"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.prismarine_crystals"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

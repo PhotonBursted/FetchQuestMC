@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/dye/light_blue",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:cyan_dye"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.cyan_dye"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

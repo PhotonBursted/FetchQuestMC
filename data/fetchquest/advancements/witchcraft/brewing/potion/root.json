@@ -1,0 +1,17 @@
+{
+  "parent": "fetchquest:witchcraft/brewing/brewing_stand",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:potion"
+    },
+    "description": "",
+    "title": "Potions",
+    "announce_to_chat": false
+  }
+}

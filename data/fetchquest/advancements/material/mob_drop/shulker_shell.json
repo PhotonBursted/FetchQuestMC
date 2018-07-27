@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:material/mob_drop/ink_sac",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:shulker_shell"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.shulker_shell"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:tool/hoe/iron",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:golden_hoe"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.golden_hoe"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

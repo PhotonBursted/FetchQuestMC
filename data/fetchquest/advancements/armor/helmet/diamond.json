@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:armor/helmet/gold",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:diamond_helmet"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.diamond_helmet"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

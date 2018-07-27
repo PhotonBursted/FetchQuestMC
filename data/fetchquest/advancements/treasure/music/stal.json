@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:treasure/music/mellohi",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:music_disc_stal"
+    },
+    "description": "stal",
+    "title": {
+      "translate": "item.minecraft.music_disc_stal"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

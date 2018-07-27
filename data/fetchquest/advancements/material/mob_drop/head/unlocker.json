@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:material/mob_drop/head/dragon",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

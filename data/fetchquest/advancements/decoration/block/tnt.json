@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:decoration/block/jukebox",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:tnt"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.tnt"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

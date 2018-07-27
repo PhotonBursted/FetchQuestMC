@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:material/mob_drop/bone",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:feather"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.feather"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

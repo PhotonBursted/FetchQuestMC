@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/bed/lime",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:yellow_bed"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.yellow_bed"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:treasure/music/strad",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:music_disc_13"
+    },
+    "description": "13",
+    "title": {
+      "translate": "item.minecraft.music_disc_13"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

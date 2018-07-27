@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:ground/brick/brick",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:witchcraft/brewing/ingredient/main/magma_cream",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:spider_eye"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.spider_eye"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

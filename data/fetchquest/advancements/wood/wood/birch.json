@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:wood/wood/acacia",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:birch_wood"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.birch_wood"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

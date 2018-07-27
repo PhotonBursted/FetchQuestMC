@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/dye/lime",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:dandelion_yellow"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.dandelion_yellow"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

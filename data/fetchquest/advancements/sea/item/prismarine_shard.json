@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:sea/item/prismarine_crystals",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.prismarine_shard"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

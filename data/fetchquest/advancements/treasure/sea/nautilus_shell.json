@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:treasure/sea/heart_of_the_sea",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:nautilus_shell"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.nautilus_shell"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

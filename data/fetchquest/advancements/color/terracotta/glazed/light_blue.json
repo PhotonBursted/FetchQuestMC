@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/terracotta/glazed/white",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:light_blue_glazed_terracotta"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.light_blue_glazed_terracotta"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

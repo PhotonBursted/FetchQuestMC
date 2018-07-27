@@ -1,0 +1,17 @@
+{
+  "parent": "fetchquest:food/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:beef"
+    },
+    "description": "",
+    "title": "Meat",
+    "announce_to_chat": false
+  }
+}

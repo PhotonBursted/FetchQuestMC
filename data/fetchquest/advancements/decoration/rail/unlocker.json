@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:decoration/rail/activator",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

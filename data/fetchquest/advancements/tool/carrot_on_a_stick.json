@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:tool/writable_book",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.carrot_on_a_stick"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

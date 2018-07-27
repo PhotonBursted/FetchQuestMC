@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:color/carpet/cyan",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:blue_carpet"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.blue_carpet"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

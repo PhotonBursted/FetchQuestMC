@@ -1,0 +1,8 @@
+{
+  "parent": "fetchquest:witchcraft/brewing/potion/tipped_arrow",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:location"
+    }
+  }
+}

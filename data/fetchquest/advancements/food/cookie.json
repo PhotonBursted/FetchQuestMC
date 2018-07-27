@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:food/chorus_fruit",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:cookie"
+    },
+    "description": "",
+    "title": {
+      "translate": "item.minecraft.cookie"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

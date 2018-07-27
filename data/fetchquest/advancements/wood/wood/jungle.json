@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:wood/wood/oak",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:jungle_wood"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.jungle_wood"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

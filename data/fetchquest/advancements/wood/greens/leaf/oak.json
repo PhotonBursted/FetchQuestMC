@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:wood/greens/leaf/birch",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:oak_leaves"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.oak_leaves"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

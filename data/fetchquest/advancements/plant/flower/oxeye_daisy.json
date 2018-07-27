@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:plant/flower/white_tulip",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:oxeye_daisy"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.oxeye_daisy"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

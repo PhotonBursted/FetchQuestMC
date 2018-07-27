@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:plant/root",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:grass"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.grass"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

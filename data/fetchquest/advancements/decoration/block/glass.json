@@ -1,0 +1,20 @@
+{
+  "parent": "fetchquest:decoration/block/glass_pane",
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "show_toast": true,
+    "icon": {
+      "item": "minecraft:glass"
+    },
+    "description": "",
+    "title": {
+      "translate": "block.minecraft.glass"
+    },
+    "announce_to_chat": false,
+    "hidden": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:totally_not_possible",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

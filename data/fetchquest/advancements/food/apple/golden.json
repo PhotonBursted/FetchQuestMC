@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:food/apple/apple",
+  "parent": "fetchquest:food/apple/normal",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"

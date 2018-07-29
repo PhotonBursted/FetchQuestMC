@@ -166,6 +166,7 @@ scoreboard players add cyan_terracotta FQ_Status 0
 scoreboard players add cyan_wool FQ_Status 0
 scoreboard players add damaged_anvil FQ_Status 0
 scoreboard players add dandelion FQ_Status 0
+scoreboard players add dandelion_yellow FQ_Status 0
 scoreboard players add dark_oak_boat FQ_Status 0
 scoreboard players add dark_oak_button FQ_Status 0
 scoreboard players add dark_oak_door FQ_Status 0
@@ -353,9 +354,9 @@ scoreboard players add lava_bucket FQ_Status 0
 scoreboard players add lead FQ_Status 0
 scoreboard players add leather FQ_Status 0
 scoreboard players add leather_boots FQ_Status 0
-scoreboard players add leather_cap FQ_Status 0
-scoreboard players add leather_pants FQ_Status 0
-scoreboard players add leather_tunic FQ_Status 0
+scoreboard players add leather_chestplate FQ_Status 0
+scoreboard players add leather_helmet FQ_Status 0
+scoreboard players add leather_leggings FQ_Status 0
 scoreboard players add lever FQ_Status 0
 scoreboard players add light_blue_banner FQ_Status 0
 scoreboard players add light_blue_bed FQ_Status 0
@@ -692,7 +693,6 @@ scoreboard players add yellow_bed FQ_Status 0
 scoreboard players add yellow_carpet FQ_Status 0
 scoreboard players add yellow_concrete FQ_Status 0
 scoreboard players add yellow_concrete_powder FQ_Status 0
-scoreboard players add yellow_dye FQ_Status 0
 scoreboard players add yellow_glazed_terracotta FQ_Status 0
 scoreboard players add yellow_shulker_box FQ_Status 0
 scoreboard players add yellow_stained_glass FQ_Status 0

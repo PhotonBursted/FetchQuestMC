@@ -1,3 +1,6 @@
-execute if score gold_nugget FQ_Status matches 0 run clear @p[nbt={SelectedItem:{id:"minecraft:gold_nugget"}}] minecraft:gold_nugget 1
-execute if score gold_nugget FQ_Status matches 0 run advancement grant @a only fetchquest:ground/ore/gold/nugget
-execute if score gold_nugget FQ_Status matches 0 run scoreboard players set gold_nugget FQ_Status 1
+clear @s minecraft:gold_nugget 1
+scoreboard players set gold_nugget FQ_Status 1
+
+advancement grant @a only fetchquest:ground/ore/gold/nugget
+
+function fetchquest:generate_score

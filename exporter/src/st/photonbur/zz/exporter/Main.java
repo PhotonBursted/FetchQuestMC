@@ -23,6 +23,9 @@ public class Main {
 
         try {
             Scanner sc = new Scanner(fileIn);
+
+            System.out.println("Base output: " + baseOutputPath);
+
             if (sc.hasNextLine()) {
                 sc.nextLine();
                 int lineCount = 0;
@@ -47,7 +50,7 @@ public class Main {
                     }
 
                     if (lineCount == 0) {
-                        System.out.println("File: " + filename);
+                        System.out.println("File: " + baseOutputPath + filename);
                         Path product = Paths.get(baseOutputPath + filename);
                         Files.write(product, Arrays.asList(contents.toString().split(System.lineSeparator())), Charset.forName("UTF-8"));
                     }

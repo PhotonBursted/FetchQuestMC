@@ -1,3 +1,6 @@
-execute if score terracotta FQ_Status matches 0 run clear @p[nbt={SelectedItem:{id:"minecraft:terracotta"}}] minecraft:terracotta 1
-execute if score terracotta FQ_Status matches 0 run advancement grant @a only fetchquest:ground/soil/terracotta
-execute if score terracotta FQ_Status matches 0 run scoreboard players set terracotta FQ_Status 1
+clear @s minecraft:terracotta 1
+scoreboard players set terracotta FQ_Status 1
+
+advancement grant @a only fetchquest:ground/soil/terracotta
+
+function fetchquest:generate_score

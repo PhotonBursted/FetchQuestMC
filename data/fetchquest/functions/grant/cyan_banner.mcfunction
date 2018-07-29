@@ -1,3 +1,6 @@
-execute if score cyan_banner FQ_Status matches 0 run clear @p[nbt={SelectedItem:{id:"minecraft:cyan_banner"}}] minecraft:cyan_banner 1
-execute if score cyan_banner FQ_Status matches 0 run advancement grant @a only fetchquest:color/banner/cyan
-execute if score cyan_banner FQ_Status matches 0 run scoreboard players set cyan_banner FQ_Status 1
+clear @s minecraft:cyan_banner 1
+scoreboard players set cyan_banner FQ_Status 1
+
+advancement grant @a only fetchquest:color/banner/cyan
+
+function fetchquest:generate_score

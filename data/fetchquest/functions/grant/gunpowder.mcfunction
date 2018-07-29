@@ -1,4 +1,7 @@
-execute if score gunpowder FQ_Status matches 0 run clear @p[nbt={SelectedItem:{id:"minecraft:gunpowder"}}] minecraft:gunpowder 1
-execute if score gunpowder FQ_Status matches 0 run advancement grant @a only fetchquest:material/mob_drop/gunpowder
-execute if score gunpowder FQ_Status matches 0 run advancement grant @a only fetchquest:witchcraft/brewing/ingredient/modifier/gunpowder
-execute if score gunpowder FQ_Status matches 0 run scoreboard players set gunpowder FQ_Status 1
+clear @s minecraft:gunpowder 1
+scoreboard players set gunpowder FQ_Status 1
+
+advancement grant @a only fetchquest:material/mob_drop/gunpowder
+advancement grant @a only fetchquest:witchcraft/brewing/ingredient/modifier/gunpowder
+
+function fetchquest:generate_score

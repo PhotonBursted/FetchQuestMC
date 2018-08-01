@@ -6,7 +6,7 @@
     }
   },
   "display": {
-    "show_toast": false,
+    "show_toast": true,
     "icon": {
       "item": "minecraft:bone_meal"
     },

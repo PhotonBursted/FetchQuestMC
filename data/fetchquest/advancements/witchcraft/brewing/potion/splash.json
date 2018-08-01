@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:witchcraft/brewing/potion/potion",
+  "parent": "fetchquest:witchcraft/brewing/potion/normal",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"

@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:food/fish/tropical_fish",
+  "parent": "fetchquest:food/fish/tropical",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:location"

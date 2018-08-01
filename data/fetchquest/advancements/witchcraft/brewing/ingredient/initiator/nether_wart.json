@@ -12,7 +12,7 @@
     },
     "description": "",
     "title": {
-      "translate": "item.minecraft.nether_wart"
+      "translate": "block.minecraft.nether_wart"
     },
     "announce_to_chat": false,
     "hidden": false

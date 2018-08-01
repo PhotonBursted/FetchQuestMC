@@ -6,6 +6,7 @@
         <element id="file-copy" path="$PROJECT_DIR$/exporter/res/META-INF/MANIFEST.MF" />
       </element>
       <element id="module-output" name="FetchQuestMC" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/exporter/lib/univocity-parsers-2.7.2.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

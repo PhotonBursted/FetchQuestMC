@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:decoration/rail/rail",
+  "parent": "fetchquest:decoration/rail/normal",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"

@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:witchcraft/enchanting/book/book",
+  "parent": "fetchquest:witchcraft/enchanting/book/normal",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"

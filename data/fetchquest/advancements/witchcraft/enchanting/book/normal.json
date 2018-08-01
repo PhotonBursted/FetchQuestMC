@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:witchcraft/enchanting/book/bookshelf",
+  "parent": "fetchquest:witchcraft/enchanting/book/shelf",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"

@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:ground/root",
+  "parent": "fetchquest:ground/rock/root",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"

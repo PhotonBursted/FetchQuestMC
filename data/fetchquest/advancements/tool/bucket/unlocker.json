@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:tool/bucket/bucket",
+  "parent": "fetchquest:tool/bucket/empty",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:location"

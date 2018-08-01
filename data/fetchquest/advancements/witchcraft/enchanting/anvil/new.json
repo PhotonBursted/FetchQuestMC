@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:witchcraft/root",
+  "parent": "fetchquest:witchcraft/enchanting/enchanting_table",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"

@@ -1,4 +1,5 @@
- execute if entity @s[nbt={SelectedItem:{id:"minecraft:acacia_button"}}] if score acacia_button FQ_Status matches 0 run function fetchquest:grant/acacia_button
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:acacia_boat"}}] if score acacia_boat FQ_Status matches 0 run function fetchquest:grant/acacia_boat
+execute if entity @s[nbt={SelectedItem:{id:"minecraft:acacia_button"}}] if score acacia_button FQ_Status matches 0 run function fetchquest:grant/acacia_button
 execute if entity @s[nbt={SelectedItem:{id:"minecraft:acacia_door"}}] if score acacia_door FQ_Status matches 0 run function fetchquest:grant/acacia_door
 execute if entity @s[nbt={SelectedItem:{id:"minecraft:acacia_fence"}}] if score acacia_fence FQ_Status matches 0 run function fetchquest:grant/acacia_fence
 execute if entity @s[nbt={SelectedItem:{id:"minecraft:acacia_fence_gate"}}] if score acacia_fence_gate FQ_Status matches 0 run function fetchquest:grant/acacia_fence_gate

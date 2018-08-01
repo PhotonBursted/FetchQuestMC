@@ -12,7 +12,7 @@
     },
     "description": "",
     "title": {
-      "translate": "block.minecraft.wheat"
+      "translate": "item.minecraft.wheat"
     },
     "announce_to_chat": false,
     "hidden": false

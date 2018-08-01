@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:decoration/rail/minecart/minecart",
+  "parent": "fetchquest:decoration/rail/minecart/empty",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"

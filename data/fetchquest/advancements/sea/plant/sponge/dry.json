@@ -1,5 +1,5 @@
 {
-  "parent": "fetchquest:sea/root",
+  "parent": "fetchquest:sea/plant/root",
   "criteria": {
     "impossible": {
       "trigger": "minecraft:impossible"

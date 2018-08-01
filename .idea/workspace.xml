@@ -7,790 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d74095e-0e4e-4be0-95a1-c48ccb491331" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/univocity_parsers_2_7_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exporter/lib/univocity-parsers-2.7.2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/FetchQuestMC_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/FetchQuestMC_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exporter/src/st/photonbur/fq/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/AdvancementExporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/Exporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/FunctionExporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/GrantExporter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FetchQuestMC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FetchQuestMC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/armor/chestplate/chainmail.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/armor/chestplate/chainmail.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/armor/chestplate/leather.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/armor/helmet/leather.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/armor/helmet/leather.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/armor/leggings/leather.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/armor/leggings/leather.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/color/dye/white.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/color/dye/white.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/entity/armor_stand.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/entity/armor_stand.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/entity/item_frame.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/entity/item_frame.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/entity/painting.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/entity/painting.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/minecart/chest.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/minecart/chest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/minecart/furnace.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/minecart/furnace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/minecart/hopper.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/minecart/hopper.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/minecart/minecart.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/minecart/empty.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/minecart/tnt.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/minecart/tnt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/powered.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/powered.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/rail.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/decoration/rail/normal.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/food/egg/turtle.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/food/egg/turtle.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/food/fish/tropical_fish.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/food/fish/tropical.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/food/fish/unlocker.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/food/fish/unlocker.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/food/meat/raw/beef.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/food/meat/raw/beef.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/food/potato/baked.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/food/potato/baked.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/ground/brick/nether/brick.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/ground/brick/nether/brick.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/ground/nether/nether_wart.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/ground/nether/nether_wart.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/ground/rock/end_stone.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/ground/rock/end_stone.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/material/bone_meal.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/material/bone_meal.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/navigation/ender_eye.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/navigation/ender_eye.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/navigation/map.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/navigation/map.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/navigation/unlocker.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/navigation/unlocker.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/cactus.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/cactus.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/carved_pumpkin.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/carved_pumpkin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/jack_o_lantern.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/jack_o_lantern.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/melon.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/melon.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/pumpkin.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/pumpkin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/wheat.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/plant/crop/wheat.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/sea/block/stair/unlocked.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/sea/block/stair/unlocker.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/sea/plant/coral/block/dead/tube.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/sea/plant/coral/block/dead/tube.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/sea/plant/coral/block/tube.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/sea/plant/coral/block/tube.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/sea/plant/coral/fan/dead/tube.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/sea/plant/coral/fan/dead/tube.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/sea/plant/coral/fan/tube.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/sea/plant/coral/fan/tube.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/sea/plant/sponge/dry.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/sea/plant/sponge/dry.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/tool/bucket/bucket.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/tool/bucket/empty.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/tool/bucket/fish/cod.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/tool/bucket/fish/cod.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/tool/bucket/liquid/water.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/tool/bucket/liquid/water.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/tool/bucket/unlocker.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/tool/bucket/unlocker.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/tool/carrot_on_a_stick.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/tool/carrot_on_a_stick.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/tool/unlocker.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/tool/unlocker.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/tool/weapon/spectral_arrow.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/tool/weapon/spectral_arrow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/tool/weapon/tipped_arrow.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/tool/weapon/tipped_arrow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/tool/weapon/trident.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/tool/weapon/trident.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/tool/writable_book.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/tool/writable_book.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/11.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/13.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/blocks.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/blocks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/cat.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/cat.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/chirp.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/chirp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/far.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/far.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/mall.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/mall.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/mellohi.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/mellohi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/stal.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/stal.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/strad.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/strad.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/wait.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/wait.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/ward.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/music/ward.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/sea/conduit.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/treasure/sea/conduit.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/brewing/ingredient/initiator/nether_wart.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/brewing/ingredient/initiator/nether_wart.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/brewing/potion/potion.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/brewing/potion/normal.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/brewing/potion/splash.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/brewing/potion/splash.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/enchanting/anvil/new.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/enchanting/anvil/new.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/enchanting/book/book.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/enchanting/book/normal.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/enchanting/book/bookshelf.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/enchanting/book/shelf.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/enchanting/book/enchanted.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/witchcraft/enchanting/book/enchanted.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/advancements/wood/utility/unlocked.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/advancements/wood/utility/unlocker.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/create_players.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/functions/create_players.mcfunction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/generate_score.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/functions/generate_score.mcfunction" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_boat.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_button.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_door.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_fence.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_fence_gate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_leaves.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_planks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_pressure_plate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_sapling.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_trapdoor.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/acacia_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/activator_rail.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/allium.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/andesite.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/anvil.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/apple.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/armor_stand.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/arrow.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/azure_bluet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/baked_potato.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/beacon.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/beef.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/beetroot.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/beetroot_seeds.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/beetroot_soup.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_boat.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_button.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_door.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_fence.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_fence_gate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_leaves.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_planks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_pressure_plate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_sapling.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_trapdoor.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/birch_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/black_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/black_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/black_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/black_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/black_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/black_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/black_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/black_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/black_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/black_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/black_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blaze_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blaze_rod.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_ice.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_orchid.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/blue_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bone_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bone_meal.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/book.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bookshelf.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bow.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bowl.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brain_coral.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brain_coral_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brain_coral_fan.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bread.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brewing_stand.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brick.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brick_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brick_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bricks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_mushroom.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_mushroom_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/brown_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bubble_coral.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bubble_coral_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bubble_coral_fan.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/bucket.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cactus.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cactus_green.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cake.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/carrot.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/carrot_on_a_stick.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/carved_pumpkin.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cauldron.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chainmail_boots.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chainmail_chestplate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chainmail_helmet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chainmail_leggings.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/charcoal.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chest.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chest_minecart.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chicken.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chipped_anvil.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chiseled_quartz_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chiseled_red_sandstone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chiseled_sandstone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chiseled_stone_bricks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chorus_flower.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/chorus_fruit.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/clay.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/clay_ball.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/clock.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/coal.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/coal_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/coal_ore.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/coarse_dirt.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cobblestone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cobblestone_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cobblestone_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cobblestone_wall.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cobweb.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cocoa_beans.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cod.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cod_bucket.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/comparator.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/compass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/conduit.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cooked_beef.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cooked_chicken.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cooked_cod.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cooked_mutton.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cooked_porkchop.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cooked_rabbit.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cooked_salmon.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cookie.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cracked_stone_bricks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/crafting_table.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/creeper_head.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cut_red_sandstone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cut_sandstone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_dye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/cyan_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/damaged_anvil.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dandelion.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dandelion_yellow.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_boat.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_button.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_door.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_fence.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_fence_gate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_leaves.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_planks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_pressure_plate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_sapling.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_trapdoor.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_oak_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_prismarine.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_prismarine_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dark_prismarine_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/daylight_detector.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dead_brain_coral_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dead_brain_coral_fan.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dead_bubble_coral_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dead_bubble_coral_fan.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dead_bush.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dead_fire_coral_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dead_fire_coral_fan.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dead_horn_coral_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dead_horn_coral_fan.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dead_tube_coral_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dead_tube_coral_fan.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/detector_rail.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_axe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_boots.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_chestplate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_helmet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_hoe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_horse_armor.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_leggings.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_ore.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_pickaxe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_shovel.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diamond_sword.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/diorite.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dirt.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dispenser.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dragon_breath.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dragon_egg.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dragon_head.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dried_kelp.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dried_kelp_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/dropper.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/egg.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/elytra.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/emerald.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/emerald_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/emerald_ore.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/enchanted_book.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/enchanted_golden_apple.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/enchanting_table.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/end_crystal.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/end_rod.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/end_stone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/end_stone_bricks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/ender_chest.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/ender_eye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/ender_pearl.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/experience_bottle.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/feather.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/fermented_spider_eye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/fern.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/fire_charge.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/fire_coral.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/fire_coral_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/fire_coral_fan.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/firework_rocket.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/firework_star.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/fishing_rod.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/flint.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/flint_and_steel.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/flower_pot.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/furnace.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/furnace_minecart.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/ghast_tear.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/glass_bottle.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/glistering_melon_slice.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/glowstone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/glowstone_dust.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gold_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gold_ingot.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gold_nugget.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gold_ore.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_apple.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_axe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_boots.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_carrot.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_chestplate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_helmet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_hoe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_horse_armor.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_leggings.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_pickaxe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_shovel.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/golden_sword.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/granite.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/grass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/grass_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gravel.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_dye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gray_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/green_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/green_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/green_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/green_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/green_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/green_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/green_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/green_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/green_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/green_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/green_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/gunpowder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/hay_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/heart_of_the_sea.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/heavy_weighted_pressure_plate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/hopper.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/hopper_minecart.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/horn_coral.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/horn_coral_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/horn_coral_fan.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/ice.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/ink_sac.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_axe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_bars.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_boots.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_chestplate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_door.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_helmet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_hoe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_horse_armor.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_ingot.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_leggings.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_nugget.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_ore.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_pickaxe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_shovel.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_sword.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/iron_trapdoor.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/item_frame.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jack_o_lantern.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jukebox.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_boat.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_button.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_door.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_fence.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_fence_gate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_leaves.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_planks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_pressure_plate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_sapling.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_trapdoor.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/jungle_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/kelp.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/ladder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lapis_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lapis_lazuli.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lapis_ore.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lava_bucket.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lead.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/leather.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/leather_boots.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/leather_chestplate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/leather_helmet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/leather_leggings.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lever.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_dye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_blue_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_dye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_gray_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/light_weighted_pressure_plate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lilac.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lily_pad.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_dye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lime_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/lingering_potion.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_dye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magenta_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magma_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/magma_cream.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/map.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/melon.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/melon_seeds.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/melon_slice.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/milk_bucket.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/minecart.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/mossy_cobblestone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/mossy_cobblestone_wall.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/mossy_stone_bricks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/mushroom_stem.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/mushroom_stew.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_11.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_13.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_blocks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_cat.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_chirp.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_far.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_mall.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_mellohi.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_stal.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_strad.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_wait.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/music_disc_ward.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/mutton.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/mycelium.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/name_tag.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/nautilus_shell.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/nether_brick.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/nether_brick_fence.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/nether_brick_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/nether_brick_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/nether_bricks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/nether_quartz_ore.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/nether_star.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/nether_wart.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/nether_wart_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/netherrack.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/note_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_boat.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_button.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_door.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_fence.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_fence_gate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_leaves.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_planks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_pressure_plate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_sapling.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_trapdoor.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oak_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/observer.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/obsidian.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_dye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_tulip.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/orange_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/oxeye_daisy.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/packed_ice.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/painting.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/paper.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/peony.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/phantom_membrane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_dye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_tulip.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pink_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/piston.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/podzol.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/poisonous_potato.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/polished_andesite.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/polished_diorite.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/polished_granite.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/popped_chorus_fruit.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/poppy.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/porkchop.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/potato.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/potion.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/powered_rail.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/prismarine.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/prismarine_brick_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/prismarine_brick_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/prismarine_bricks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/prismarine_crystals.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/prismarine_shard.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/prismarine_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/prismarine_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pufferfish.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pufferfish_bucket.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pumpkin.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pumpkin_pie.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/pumpkin_seeds.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_dye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purple_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purpur_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purpur_pillar.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purpur_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/purpur_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/quartz.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/quartz_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/quartz_pillar.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/quartz_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/quartz_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/rabbit.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/rabbit_foot.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/rabbit_hide.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/rabbit_stew.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/rail.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_mushroom.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_mushroom_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_nether_bricks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_sand.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_sandstone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_sandstone_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_sandstone_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_tulip.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/red_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/redstone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/redstone_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/redstone_lamp.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/redstone_ore.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/redstone_torch.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/repeater.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/rose_bush.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/rose_red.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/rotten_flesh.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/saddle.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/salmon.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/salmon_bucket.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sand.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sandstone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sandstone_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sandstone_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/scute.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sea_lantern.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sea_pickle.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/seagrass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/shears.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/shield.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/shulker_shell.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sign.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/skeleton_skull.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/slime_ball.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/slime_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/snow.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/snow_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/snowball.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/soul_sand.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spectral_arrow.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spider_eye.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/splash_potion.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sponge.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_boat.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_button.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_door.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_fence.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_fence_gate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_leaves.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_planks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_pressure_plate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_sapling.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_trapdoor.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/spruce_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stick.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sticky_piston.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone_axe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone_brick_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone_brick_stairs.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone_bricks.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone_button.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone_hoe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone_pickaxe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone_pressure_plate.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone_shovel.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone_slab.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stone_sword.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/string.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_acacia_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_acacia_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_birch_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_birch_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_dark_oak_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_dark_oak_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_jungle_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_jungle_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_oak_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_oak_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_spruce_log.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/stripped_spruce_wood.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sugar.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sugar_cane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/sunflower.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/tipped_arrow.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/tnt.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/tnt_minecart.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/torch.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/totem_of_undying.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/trapped_chest.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/trident.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/tripwire_hook.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/tropical_fish.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/tropical_fish_bucket.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/tube_coral.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/tube_coral_block.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/tube_coral_fan.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/turtle_egg.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/turtle_helmet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/vine.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/water_bucket.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/wet_sponge.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/wheat.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/wheat_seeds.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_tulip.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/white_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/wither_skeleton_skull.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/wooden_axe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/wooden_hoe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/wooden_pickaxe.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/wooden_shovel.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/wooden_sword.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/writable_book.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/yellow_banner.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/yellow_bed.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/yellow_carpet.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/yellow_concrete.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/yellow_concrete_powder.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/yellow_glazed_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/yellow_shulker_box.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/yellow_stained_glass.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/yellow_stained_glass_pane.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/yellow_terracotta.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/yellow_wool.mcfunction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/grant/zombie_head.mcfunction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/reset.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/functions/reset.mcfunction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/fetchquest/functions/submission.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/data/fetchquest/functions/submission.mcfunction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exporter/FetchQuestMC.jar" beforeDir="false" afterPath="$PROJECT_DIR$/exporter/FetchQuestMC.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FetchQuestMC/st/photonbur/zz/exporter/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FetchQuestMC/st/photonbur/zz/exporter/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exporter/res/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/exporter/res/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FetchQuestMC/st/photonbur/zz/exporter/Main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -802,11 +33,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Main.java">
+      <file leaf-file-name="AdvancementExporter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/AdvancementExporter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+            <state relative-caret-position="228">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exporter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/Exporter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="72" column="50" selection-start-line="72" selection-start-column="50" selection-end-line="72" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1317#1318#0" expanded="true" />
+                <element signature="e#1354#1355#0" expanded="true" />
+                <element signature="e#1392#1393#0" expanded="true" />
+                <element signature="e#1447#1448#0" expanded="true" />
+                <element signature="e#1484#1485#0" expanded="true" />
+                <element signature="e#1517#1518#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FunctionExporter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/FunctionExporter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -814,7 +77,49 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="GrantExporter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/GrantExporter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#577#578#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-229">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exporter/res/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -837,6 +142,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/st/photonbur/zz/exporter/Main.java" />
         <option value="$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Main.java" />
+        <option value="$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Exporter.java" />
+        <option value="$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/Main.java" />
+        <option value="$PROJECT_DIR$/exporter/src/st/photonbur/fq/Main.java" />
+        <option value="$PROJECT_DIR$/exporter/res/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/AdvancementExporter.java" />
+        <option value="$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/Exporter.java" />
+        <option value="$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/GrantExporter.java" />
+        <option value="$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/FunctionExporter.java" />
       </list>
     </option>
   </component>
@@ -845,6 +158,12 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -882,7 +201,35 @@
               <item name="FetchQuestMC" type="b2602c69:ProjectViewProjectNode" />
               <item name="FetchQuestMC" type="462c0819:PsiDirectoryNode" />
               <item name="exporter" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FetchQuestMC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FetchQuestMC" type="462c0819:PsiDirectoryNode" />
+              <item name="exporter" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FetchQuestMC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FetchQuestMC" type="462c0819:PsiDirectoryNode" />
+              <item name="exporter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FetchQuestMC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FetchQuestMC" type="462c0819:PsiDirectoryNode" />
+              <item name="exporter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FetchQuestMC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FetchQuestMC" type="462c0819:PsiDirectoryNode" />
+              <item name="exporter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fq" type="462c0819:PsiDirectoryNode" />
+              <item name="exporter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -897,8 +244,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
@@ -979,36 +326,38 @@
       <workItem from="1532733719183" duration="415000" />
       <workItem from="1532819784630" duration="33000" />
       <workItem from="1532819862154" duration="756000" />
-      <workItem from="1533066934198" duration="8956000" />
+      <workItem from="1533066934198" duration="17852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13985000" />
+    <option name="totallyTimeSpent" value="22881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32821724" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008091" side_tool="true" visible="true" weight="0.3293979" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32928804" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2669903" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2669903" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49919093" visible="true" weight="0.3293979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1016,7 +365,6 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1026,7 +374,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Main.java">
+    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
           <caret line="31" column="37" selection-start-line="31" selection-start-column="37" selection-end-line="31" selection-end-column="37" />
@@ -1036,7 +384,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Main.java">
+    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
@@ -1044,7 +392,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/fetchquest/functions/grant/data.csv" />
-    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Main.java">
+    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
@@ -1052,7 +400,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/fetchquest/functions/grant/data.csv" />
-    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Main.java">
+    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
@@ -1063,7 +411,7 @@
     <entry file="file://$PROJECT_DIR$/data/fetchquest/functions/grant/white_stained_glass.mcfunction">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Main.java">
+    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="38" column="106" selection-start-line="38" selection-start-column="106" selection-end-line="38" selection-end-column="106" />
@@ -1090,10 +438,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/zz/exporter/Main.java">
+    <entry file="file://$PROJECT_DIR$/exporter/res/META-INF/MANIFEST.MF">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="70" column="42" selection-start-line="70" selection-start-column="42" selection-end-line="70" selection-end-column="42" />
+        <state relative-caret-position="36">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/AdvancementExporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/Exporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="72" column="50" selection-start-line="72" selection-start-column="50" selection-end-line="72" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1354#1355#0" expanded="true" />
+            <element signature="e#1392#1393#0" expanded="true" />
+            <element signature="e#1447#1448#0" expanded="true" />
+            <element signature="e#1484#1485#0" expanded="true" />
+            <element signature="e#1517#1518#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/GrantExporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exporter/src/st/photonbur/fq/exporter/FunctionExporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1179,7 +584,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>univocity-1.0.7</last-edited>
+          <last-edited>univocity-parsers-2.7.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
